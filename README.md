@@ -4,7 +4,7 @@ Something I’ve been toying with for a while is a community led cloud platform.
 
 Cloud platforms have become pretty pivotal to how we operate businesses day to day, but as developers its still a pretty terrible experience. What’s worse is this idea that you’re locked into to something so profit centric and totally outside of your control. AWS is the super giant of clouds that is primarily targeted at enterprises rather than the users it was geared towards to begin with i.e the developer. This shows in the current UX.
 
-A recent discussion with a frontend engineer led to how it took two weeks to setup a DynamoDB table just to get his app running. This is pretty bad. Any experienced AWS senior eng tell you right now, how this should take no longer than a few minutes. And while that might be true for them there’s a whole different demographic who are having a different experience.
+A recent discussion with a frontend engineer led to how it took two weeks to setup a DynamoDB table just to get his app running. This is pretty bad. Any experienced AWS senior eng will tell you right now, how this should take no longer than a few minutes. And while that might be true for them there’s a whole different demographic who are having a different experience.
 
 I think it speaks to why we’re seeing so many offshoots for different parts of the AWS stack. Yet how do you commit to the next hyperscale VC funded startup that might die off in an instant? Who’s to say they’re still around a year or two from now or that experience won’t also suffer as they start catering to the enterprise to makey money.
 
