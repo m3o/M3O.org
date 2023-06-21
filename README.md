@@ -16,6 +16,6 @@ But these experiences and some passing of time has given me the opportunity to t
 
 Seeing things like Let’s Encrypt really become a vital piece of infrastructure for the world makes me think the same can be done for other parts of the stack. What made Let’s Encrypt work though, I guess was that it was entirely free and has survived on the good will of the people.
 
-Maybe we need to take the same approach for the cloud?
+Maybe we need to do the same for the cloud?
 
 Asim
